@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Node & React**
 
-- 🌱 Current learns - **Ruby, Vue, Remix, Next.js**
+- 🌱 Current learnings - **Ruby, Vue, Remix, Next.js**
 
 - 🏅 2022-23 Goal is to contribute more to Open Source projects 
 
