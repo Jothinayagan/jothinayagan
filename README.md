@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Node & React**
 
-- 🌱 Learning IP - **Postgresql, SASS**
+- 📚 Learning IP - **Postgresql & SASS**
 
 - 🏅 2024-25 Goal is to contribute to Open Source projects 
 
