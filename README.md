@@ -4,21 +4,21 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;A+passionate+software+engineer;interested+in+Javascript+technologies)](https://git.io/typing-svg) -->
 
 <!-- </div> -->
-<h3 align="center">A passionate software engineer interested in Javascript technologies..</h3>
+<h3 align="center">A enthusiastic software engineer with a focus on JavaScript technologies.</h3>
 <br />
 
 
 - 💬 Ask me about **Node & React**
 
-- 🌱 Current learnings - **Ruby, Vue, Remix, Next.js**
+- 🌱 Learning IP - **Postgresql, SASS**
 
-- 🏅 2022-23 Goal is to contribute more to Open Source projects 
+- 🏅 2024-25 Goal is to contribute to Open Source projects 
 
-- 📝 I regularly write articles on [jothinayagan.hashnode.dev](jothinayagan.hashnode.dev)
+- 📝 I write articles on [jothinayagan.hashnode.dev](jothinayagan.hashnode.dev)
 
 <br />
 
-<h1 align="left">🚀 &nbsp;Some tools I have used and learned</h1>
+<h1 align="left">🚀 &nbsp;Some tools I have used</h1>
 <p align="left"> 
 <div align="center">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;
@@ -29,8 +29,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>&nbsp;
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> &nbsp;
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>&nbsp;
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 </div>
 
 <div align="center">
@@ -39,7 +37,6 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </div>
 
 <!-- <h3 align="left">Connect with me:</h3>
